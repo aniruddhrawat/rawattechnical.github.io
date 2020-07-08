@@ -1,0 +1,19 @@
+*{margin: 0px; padding:0px;font-family: 'Abel', sans-serif;}
+.nav-item{
+	margin-right: 10px;
+}
+.carousel-item img{
+	height: auto;
+}
+label{
+	margin-left: 15px;
+}
+.footer{
+	background-color: #0d0d0d;
+}
+.btn{
+	border:1px solid gray;
+}
+.btn:hover{
+	background-color:  #001a33;
+}
